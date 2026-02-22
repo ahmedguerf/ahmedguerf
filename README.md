@@ -115,19 +115,6 @@
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedguerf&theme=tokyonight" alt="Profile Details" />
 </div>
 
----
-
-## 🐍 **Watch the Snake Eat My Contributions**
-
-<div align="center">
-  
-  ![snake gif](https://github.com/ahmedguerf/ahmedguerf/blob/output/github-contribution-grid-snake.svg)
-  
-  <sub>*(Every time you commit, the snake grows hungrier!)*</sub>
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Let's Connect & Collaborate**
 
 <div align="center">
